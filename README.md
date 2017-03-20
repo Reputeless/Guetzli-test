@@ -28,6 +28,9 @@
 |quality = 95|butteraugli_target = 0.93|
 |63,751 bytes|62,836 bytes|
 |<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q95.jpg">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b0.93.jpg">|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q95-large.png">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b0.93-large.png">|
 |quality = 89|butteraugli_target = 1.4|
 |40,842 bytes|40,574 bytes|
 |<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q89.jpg">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b1.4.jpg">|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q89-large.png">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b1.4-large.png">|
+
