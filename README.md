@@ -4,7 +4,7 @@
 
 [original](https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/original.png) (84,417 bytes)
 
-|libjpeg-turbo|Guetzli|
+|libjpeg-turbo 1.5.1|Guetzli|
 |:---:|:---:|
 |quality = 94|butteraugli_target = 0.95|
 |41,223 bytes|40,994 bytes|
