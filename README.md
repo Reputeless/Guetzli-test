@@ -18,3 +18,16 @@
 |26,698 bytes|26,276 bytes|
 |<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/q83.jpg">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/b2.0.jpg">|
 |<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/q83-large.png">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/b2.0-large.png">|
+
+## Windmill
+
+[original](https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original.png) (253,286 bytes)
+
+|libjpeg-turbo 1.5.1|Guetzli|
+|:---:|:---:|
+|quality = 95|butteraugli_target = 0.93|
+|63,751 bytes|62,836 bytes|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q95.jpg">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b0.93.jpg">|
+|quality = 89|butteraugli_target = 1.4|
+|40,842 bytes|40,574 bytes|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/q89.jpg">|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/b1.4.jpg">|
