@@ -28,7 +28,7 @@
 |original|
 |:---:|
 |253,286 bytes|
-|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original.png">|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original.png" width="417">|
 |<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original-large.png" width="417">|
 
 |libjpeg-turbo 1.5.1|Guetzli|
