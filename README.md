@@ -2,7 +2,11 @@
 
 ## Siv3D-kun
 
-[original](https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/original.png) (84,417 bytes)
+|original|
+|:---:|
+|84,417 bytes|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/original.png">|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/siv3d-kun/original-large.png">|
 
 |libjpeg-turbo 1.5.1|Guetzli|
 |:---:|:---:|
@@ -21,7 +25,11 @@
 
 ## Windmill
 
-[original](https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original.png) (253,286 bytes)
+|original|
+|:---:|
+|253,286 bytes|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original.png">|
+|<img src="https://github.com/Reputeless/Guetzli-test/blob/master/images/windmill/original-large.png">|
 
 |libjpeg-turbo 1.5.1|Guetzli|
 |:---:|:---:|
