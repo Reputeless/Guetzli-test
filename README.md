@@ -1,5 +1,7 @@
 # Guetzli-test
 
+Guetzli では雲にかかるブロックノイズが少ない。
+
 ## Windmill
 |original|
 |:---:|
@@ -55,6 +57,8 @@
 |0.00|226,050|0.4251|[■](images/wm/b0.00.jpg)|
 
 --------
+
+libjpeg-turbo では髪のハイライトのオレンジの発色が良くないことに注目。Guetzli では元の色を再現できている。
 
 ## Siv3D-kun
 |original|
